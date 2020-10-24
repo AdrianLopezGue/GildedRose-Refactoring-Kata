@@ -1,5 +1,5 @@
 # Gilded Rose Refactoring Kata
-This is a solution for Gilded Rose Refactoring Kata made by [@AdrianLopezGue](https://github.com/AdrianLopezGue).
+This is a solution for Gilded Rose Refactoring Kata made by [@AdrianLopezGue](https://github.com/AdrianLopezGue). It has 2 solutions, with all restrictions describe bellow and without restrictions about item.
 
 ## Introduction
 
