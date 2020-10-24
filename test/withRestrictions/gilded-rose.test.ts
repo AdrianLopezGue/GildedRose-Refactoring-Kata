@@ -1,5 +1,5 @@
-import GildedRose from "../src/gilded-rose";
-import Item from "../src/item";
+import GildedRose from "../../src/withRestrictions/gilded-rose";
+import Item from "../../src/withRestrictions/item";
 
 let quality;
 let sellIn;
